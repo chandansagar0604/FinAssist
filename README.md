@@ -1,0 +1,2 @@
+# FinAssist
+Financial Management System
